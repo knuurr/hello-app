@@ -13,6 +13,8 @@ Since application doesn't accept input from user, or utilizes databse, I skipped
 
 I've decided not to implement any access log storage for LB, however I've left logic in code just as Proof of Concept.
 
+Apologies for imperfect diagram, I'm working on my presentation and visualisation skills.
+
 # Deployment Instructions
 
 - Ensure you have Terraform installed on your local machine.
